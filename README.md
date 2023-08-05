@@ -3,12 +3,10 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
-<p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
+<p align="center">Estrutura Html e estilos Css criados para editar o site fictício abaixo, para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
+<p align="center"> <img src="https://github.com/petercloud23/html_css_praticando/blob/d2a351721ce7a93804f157fa955633cf54cdc907/Img/previa.png" alt="imagem com prévia da página a ser criada no decorrer do curso Praticando-html-css ALURA"> </p>
+
 
 ## Tecnologias
 * HTML
 * CSS
-
-## Screenshots
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
